@@ -1,0 +1,16 @@
+PODS:
+  - Machinery (0.1.0)
+
+DEPENDENCIES:
+  - Machinery (from `../`)
+
+EXTERNAL SOURCES:
+  Machinery:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Machinery: b997da00fa8156a5f043c80668d8687b13659858
+
+PODFILE CHECKSUM: 7f837a8012ffb37e01be49be02ef4c558600dea5
+
+COCOAPODS: 1.2.1

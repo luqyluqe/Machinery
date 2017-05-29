@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Machinery_Example' do
+  pod 'Machinery', :path => '../'
+
+  target 'Machinery_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
